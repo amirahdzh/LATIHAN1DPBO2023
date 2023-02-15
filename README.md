@@ -44,5 +44,3 @@ Program berbasis OOP dibuat menggunakan 4 bahasa pemrograman, yaitu: C++, Java, 
 **Delete Data**
 
 ![](../CPP/screenshot/ss_delete.png)
-
-**Exit**
